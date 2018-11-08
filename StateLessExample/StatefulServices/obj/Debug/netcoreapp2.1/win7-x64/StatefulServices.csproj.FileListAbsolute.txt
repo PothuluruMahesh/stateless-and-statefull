@@ -1,0 +1,3 @@
+F:\JAVA\C#\ArithmaticExample\StateLessExample\StatefulServices\obj\Debug\netcoreapp2.1\win7-x64\StatefulServices.csproj.CoreCompileInputs.cache
+F:\JAVA\C#\ArithmaticExample\StateLessExample\StatefulServices\obj\Debug\netcoreapp2.1\win7-x64\StatefulServices.AssemblyInfoInputs.cache
+F:\JAVA\C#\ArithmaticExample\StateLessExample\StatefulServices\obj\Debug\netcoreapp2.1\win7-x64\StatefulServices.AssemblyInfo.cs
